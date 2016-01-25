@@ -1,2 +1,2 @@
 # idc-test
-Dit is de toets van development practice
+This file was made for a test
